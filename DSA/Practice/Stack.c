@@ -102,4 +102,5 @@ int contact(){
 	printf("My self Abdur Rashid Mondal \n");
 	printf("I like to thanks you for checking this program \n");
 	printf("My contact : \n   Email : ar.rashid.mondal@gmail.com \n ");
+	return 0 ;
 }
